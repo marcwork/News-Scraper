@@ -7,6 +7,7 @@
   <b:include data='blog' name='all-head-content'/>
   <title><data:blog.pageTitle/></title>
   <link href='https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&amp;display=swap' rel='stylesheet'/>
+  <b:skin><![CDATA[/* SmartLifeLab Theme */]]></b:skin>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
